@@ -1,0 +1,5 @@
+# This project uses only the Python standard library
+# (sqlite3, unittest, dataclasses, datetime).
+# NO external package installation is required.
+#
+# Python 3.8 or newer is sufficient.
